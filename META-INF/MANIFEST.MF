@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Content-Package-Roots: /apps/dam/gui/coral/components/admin/contentren
+ derer/card/asset/quickActions.jsp,/apps/dam/gui/content/assets/jcr:co
+ ntent/head/clientlibs,/apps/customization/clientlibs/copy-asset-link
+Content-Package-Type: application
+Content-Package-Id: Tutorials:copy-link-asset-quickaction
+

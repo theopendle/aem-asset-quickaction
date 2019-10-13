@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>FileVault Package Properties</comment>
+<entry key="createdBy">admin</entry>
+<entry key="name">copy-link-asset-quickaction</entry>
+<entry key="lastModified">2019-10-13T11:01:50.999+03:00</entry>
+<entry key="lastModifiedBy">admin</entry>
+<entry key="created">2019-10-13T11:01:51.120+03:00</entry>
+<entry key="buildCount">1</entry>
+<entry key="version"/>
+<entry key="packageType">application</entry>
+<entry key="dependencies"/>
+<entry key="packageFormatVersion">2</entry>
+<entry key="description"/>
+<entry key="lastWrapped">2019-10-13T11:01:50.999+03:00</entry>
+<entry key="group">Tutorials</entry>
+<entry key="lastWrappedBy">admin</entry>
+</properties>

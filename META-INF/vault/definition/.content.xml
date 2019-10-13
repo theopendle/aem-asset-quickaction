@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:vlt="http://www.day.com/jcr/vault/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2019-10-13T11:01:50.999+03:00"
+    jcr:createdBy="admin"
+    jcr:description=""
+    jcr:lastModified="{Date}2019-10-13T11:01:50.999+03:00"
+    jcr:lastModifiedBy="admin"
+    jcr:primaryType="vlt:PackageDefinition"
+    buildCount="1"
+    builtWith="Adobe Experience Manager-6.5.1.0"
+    group="Tutorials"
+    lastUnwrapped="{Date}2019-10-13T11:01:50.999+03:00"
+    lastUnwrappedBy="admin"
+    lastWrapped="{Date}2019-10-13T11:01:50.999+03:00"
+    lastWrappedBy="admin"
+    name="copy-link-asset-quickaction"
+    version="">
+    <filter jcr:primaryType="nt:unstructured">
+        <f0
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/apps/dam/gui/coral/components/admin/contentrenderer/card/asset/quickActions.jsp"
+            rules="[]"/>
+        <f1
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/apps/dam/gui/content/assets/jcr:content/head/clientlibs"
+            rules="[]"/>
+        <f2
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/apps/customization/clientlibs/copy-asset-link"
+            rules="[]"/>
+    </filter>
+</jcr:root>

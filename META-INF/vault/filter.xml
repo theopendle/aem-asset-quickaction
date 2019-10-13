@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/dam/gui/coral/components/admin/contentrenderer/card/asset/quickActions.jsp"/>
+    <filter root="/apps/dam/gui/content/assets/jcr:content/head/clientlibs"/>
+    <filter root="/apps/customization/clientlibs/copy-asset-link"/>
+</workspaceFilter>
